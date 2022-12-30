@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Logging_without_consenting_policy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f72557d-01a9-4b9c-96ef-52e0b212a445</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ce9cba2-1368-4985-b3c6-280b145c6505</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>82c44e35-f4ff-4326-84ba-259fda5a9a2c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a3bf882f-e8f4-4730-908f-7c2dc3bde871</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f1a7c09-63c5-43ed-8162-260dafe24179</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>88c0af17-9bfa-4b3d-bad9-7e40c5d765da</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'qwertryui'</defaultValue>
+      <description>user firstname</description>
+      <id>6ce9cba2-1368-4985-b3c6-280b145c6505</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>'asfdghj'</defaultValue>
+      <description>user surname</description>
+      <id>82c44e35-f4ff-4326-84ba-259fda5a9a2c</id>
+      <masked>false</masked>
+      <name>surname</name>
+   </variable>
+   <variable>
+      <defaultValue>'zxcvbnm@gmail.com\r\n'</defaultValue>
+      <description>user mail</description>
+      <id>a3bf882f-e8f4-4730-908f-7c2dc3bde871</id>
+      <masked>false</masked>
+      <name>mail</name>
+   </variable>
+   <variable>
+      <defaultValue>'AEeX7EgTHjuTr7l0CHgzlg=='</defaultValue>
+      <description>user password</description>
+      <id>3f1a7c09-63c5-43ed-8162-260dafe24179</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Zaznacz zgodę'</defaultValue>
+      <description>error message</description>
+      <id>88c0af17-9bfa-4b3d-bad9-7e40c5d765da</id>
+      <masked>false</masked>
+      <name>error</name>
+   </variable>
+</TestCaseEntity>
